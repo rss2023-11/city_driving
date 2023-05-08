@@ -1,12 +1,6 @@
 
 
-# Lab 4: Vision
-
-| Deliverable | Due Date              |
-|---------------|----------------------------------------------------------------------------|
-| Slides Draft (link to slides on team site)   | Friday, March 17th at 1:00PM EST     |
-| Briefing    | Monday, March 20th 3:00 - 5:00 PM EST     |
-| [Team Member Assessment](https://forms.gle/Rcg1j11pwGrZT2up7)  | Wednesday, March 22th at 11:59PM EST |
+# City Driving: Team Dash
 
 ## Introduction
 
